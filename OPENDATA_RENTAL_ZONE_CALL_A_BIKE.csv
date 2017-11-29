@@ -761,7 +761,7 @@ RENTAL_ZONE_HAL_ID,RENTAL_ZONE_HAL_SRC,NAME,CODE,TYPE,CITY,COUNTRY,LATITUDE,LONG
 241777,Standort,Reeseberg/EBV-Anzengruberstra├¤e,2840,normal,Hamburg,Deutschland,"9,990306000000000","53,448960000000000",Nein,Nein,Nein,Nein,Ja,StadtRAD Hamburg,Call a Bike
 241925,Standort,Campus 1 / OS 75 Haus III,24101,normal,Kiel,Deutschland,"10,106487000000000","54,344975000000000",Nein,Nein,Nein,Nein,Ja,Call a Bike,Call a Bike
 241926,Standort,Campus 2 LS 1 Seminargeb├żude,24102,normal,Kiel,Deutschland,"10,109861000000000","54,345230000000000",Nein,Nein,Nein,Nein,Ja,Call a Bike,Call a Bike
-241929,Standort,"Campus 3 / ABG 9 ""Bioturm"";""24103",normal,Kiel,Deutschland,"10,114378000000000","54,346766000000000",Nein,Nein,Nein,Nein,Ja,Call a Bike,Call a Bike,
+241929,Standort,"Campus 3 / ABG 9 ""Bioturm"";""24103",,normal,Kiel,Deutschland,"10,114378000000000","54,346766000000000",Nein,Nein,Nein,Ja,Call a Bike,Call a Bike,
 241930,Standort,Campus 4 / Audimax,24104,normal,Kiel,Deutschland,"10,123803000000000","54,337944000000000",Nein,Nein,Nein,Nein,Ja,Call a Bike,Call a Bike
 241931,Standort,Georg-Ga├¤mann-Stadion,3000055,normal,Marburg,Deutschland,"8,753169000000000","50,798615000000000",Nein,Nein,Nein,Nein,Ja,Call a Bike,Call a Bike
 241976,Standort,Stadtb├╝ro,3000070,normal,Marburg,Deutschland,"8,766934000000000","50,790358000000000",Nein,Nein,Nein,Nein,Ja,Call a Bike,Call a Bike
